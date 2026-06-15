@@ -9,20 +9,40 @@ body {
   spacing     : 0px;
 }
 
-.bg {
-  /* background-image  : url('../images/panorama.jpg'); */
-  /* background-repeat : no-repeat; */
-  /* background-size   : cover; */
-  height           : 100vh;
-  width            : 100vw;
-  margin           : -30px 0px 0px 0px;
-  position         : fixed;
-  background-color : #F4E4D5;
+/* Mobile defaults */
+@media (max-width: 600px) {
+  .content{
+    position : relative;
+    margin   : 10px 10px 10px 10px;
+  }
+  .bg {
+    /* background-image  : url('../images/panorama.jpg'); */
+    /* background-repeat : no-repeat; */
+    /* background-size   : cover; */
+    height           : 100vh;
+    width            : 100vw;
+    margin           : -10px 0px 0px 0px;
+    position         : fixed;
+    background-color : #F4E4D5;
+  }
 }
 
-.content{
-  position : relative;
-  margin   : 30px 30px 30px 30px;
+/* Desktop from 601 px */
+@media (min-width: 601px) {
+  .content{
+    position : relative;
+    margin   : 30px 30px 30px 30px;
+  }
+  .bg {
+    /* background-image  : url('../images/panorama.jpg'); */
+    /* background-repeat : no-repeat; */
+    /* background-size   : cover; */
+    height           : 100vh;
+    width            : 100vw;
+    margin           : -30px 0px 0px 0px;
+    position         : fixed;
+    background-color : #F4E4D5;
+  }
 }
 
 A {
@@ -99,6 +119,7 @@ TABLE.header {
   padding          : 0 0 0 0;
   margin           : 0px 0px 0px 0px;
   color            : #000000;
+  margin-bottom    : 10px;
   background-color : #FFCA9F;
 }
 
@@ -112,6 +133,7 @@ TABLE.main {
   padding          : 0 0 0 0;
   margin           : 0px 0px 0px 0px;
   color            : #000000;
+  margin-bottom    : 10px;
   background-color : #FFCA9F;
 }
 
@@ -249,6 +271,7 @@ nav {
   padding          : 0 0 0 0;
   margin           : 0px 0px 0px 0px;
   color            : #000000;
+  margin-bottom    : 10px;
   background-color : #FFCA9F;
 }
 
