@@ -11,7 +11,7 @@
     statusDiv.innerHTML = "Odesílám komentář...";
 
     // Odeslání dat asynchronně přes Fetch API
-    fetch("https://formspree.io/f/mnjyzyoa", {
+    fetch("https://formspree.io/f/maqzkeyw", {
       method: "POST",
       body: data,
       headers: {
