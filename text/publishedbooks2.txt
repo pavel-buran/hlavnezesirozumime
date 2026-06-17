@@ -1,0 +1,6 @@
+<b>Hlavně že si rozumíme</b> je jeho druhou knihou v pořadí.<br>
+<br>
+<center><img width="200" src="images/book2.png" alt="Kniha" style="border:0px solid #999999" /></center><br>
+První vydaná kniha: <a href="http://napulicesty.cz" target="_blank">napulicesty.cz</a><br>
+<br>
+<center><img width="190" src="images/book1.png" alt="Kniha" style="border:0px solid #999999" /></center>
