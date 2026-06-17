@@ -111,10 +111,10 @@ TABLE.bordered {
 
 TABLE.header {
   font-size        : 100%;
-  border-left      : 1px solid #000000;
-  border-right     : 1px solid #000000;
-  border-top       : 1px solid #000000;
-  border-bottom    : 1px solid #000000;
+  border-left      : 1px solid #777777;
+  border-right     : 1px solid #777777;
+  border-top       : 1px solid #777777;
+  border-bottom    : 1px solid #777777;
   border-radius    : 10px;
   padding          : 0 0 0 0;
   margin           : 0px 0px 0px 0px;
@@ -125,10 +125,10 @@ TABLE.header {
 
 TABLE.main {
   font-size        : 100%;
-  border-left      : 1px solid #000000;
-  border-right     : 1px solid #000000;
-  border-top       : 1px solid #000000;
-  border-bottom    : 1px solid #000000;
+  border-left      : 1px solid #777777;
+  border-right     : 1px solid #777777;
+  border-top       : 1px solid #777777;
+  border-bottom    : 1px solid #777777;
   border-radius    : 10px;
   padding          : 0 0 0 0;
   margin           : 0px 0px 0px 0px;
@@ -139,10 +139,10 @@ TABLE.main {
 
 TABLE.footer {
   font-size        : 100%;
-  border-left      : 1px solid #000000;
-  border-right     : 1px solid #000000;
-  border-top       : 1px solid #000000;
-  border-bottom    : 1px solid #000000;
+  border-left      : 1px solid #777777;
+  border-right     : 1px solid #777777;
+  border-top       : 1px solid #777777;
+  border-bottom    : 1px solid #777777;
   border-radius    : 10px;
   padding          : 0 0 0 0;
   margin           : 0px 0px 0px 0px;
@@ -263,10 +263,10 @@ menu.ios {
 }
 
 nav {
-  border-left      : 1px solid #000000;
-  border-right     : 1px solid #000000;
-  border-top       : 1px solid #000000;
-  border-bottom    : 1px solid #000000;
+  border-left      : 1px solid #777777;
+  border-right     : 1px solid #777777;
+  border-top       : 1px solid #777777;
+  border-bottom    : 1px solid #777777;
   border-radius    : 10px;
   padding          : 0 0 0 0;
   margin           : 0px 0px 0px 0px;
