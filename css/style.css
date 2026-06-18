@@ -1,49 +1,53 @@
 
 body {
-  font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
-  font-size   : 16px;
-  color       : #000000;
-  font-weight : normal;
-  margin      : 0px 0px 0px 0px;
-  padding     : 0px 0px 0px 0px;
-  spacing     : 0px;
+  font-family      : Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size        : 16px;
+  color            : #000000;
+  font-weight      : normal;
+  margin           : 0px 0px 0px 0px;
+  padding          : 0px 0px 0px 0px;
+  spacing          : 0px;
+  background-color : #F4E4D5;
+  margin           : 10px 10px 10px 10px;
 }
 
 /* Mobile defaults */
-@media (max-width: 600px) {
-  .content{
-    position : relative;
-    margin   : 10px 10px 10px 10px;
-  }
-  .bg {
+/* @media (max-width: 600px) { */
+  /* .content{ */
+    /* position : relative; */
+    /* margin   : 10px 10px 10px 10px; */
+    /* /* background-color : #F4E4D5; */ */
+  /* } */
+  /* .bg { */
     /* background-image  : url('../images/panorama.jpg'); */
     /* background-repeat : no-repeat; */
     /* background-size   : cover; */
-    height           : 100vh;
-    width            : 100vw;
-    margin           : -10px 0px 0px 0px;
-    position         : fixed;
-    background-color : #F4E4D5;
-  }
-}
+    /* height           : 100vh; */
+    /* width            : 100vw; */
+    /* margin           : -10px 0px 0px 0px; */
+    /* position         : fixed; */
+    /* background-color : #F4E4D5; */
+  /* } */
+/* } */
 
 /* Desktop from 601 px */
-@media (min-width: 601px) {
-  .content{
-    position : relative;
-    margin   : 30px 30px 30px 30px;
-  }
-  .bg {
+/* @media (min-width: 601px) { */
+  /* .content{ */
+    /* position : relative; */
+    /* margin   : 30px 30px 30px 30px; */
+    /* /* background-color : #F4E4D5; */ */
+  /* } */
+  /* .bg { */
     /* background-image  : url('../images/panorama.jpg'); */
     /* background-repeat : no-repeat; */
     /* background-size   : cover; */
-    height           : 100vh;
-    width            : 100vw;
-    margin           : -30px 0px 0px 0px;
-    position         : fixed;
-    background-color : #F4E4D5;
-  }
-}
+    /* height           : 100vh; */
+    /* width            : 100vw; */
+    /* margin           : -30px 0px 0px 0px; */
+    /* position         : fixed; */
+    /* background-color : #F4E4D5; */
+  /* } */
+/* } */
 
 A {
   font-family     : Verdana, Geneva, Arial, Helvetica, sans-serif;
