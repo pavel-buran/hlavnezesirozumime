@@ -7,7 +7,9 @@ body {
   margin           : 0px 0px 0px 0px;
   padding          : 0px 0px 0px 0px;
   spacing          : 0px;
-  background-color : #F4E4D5;
+  /* background-color : #F4E4D5; */
+  /* background-color : #EEEEEE; */
+  background-color : #E6E6E6;
   margin           : 10px 10px 10px 10px;
 }
 
@@ -124,7 +126,8 @@ TABLE.header {
   margin           : 0px 0px 0px 0px;
   color            : #000000;
   margin-bottom    : 10px;
-  background-color : #FFCA9F;
+  /* background-color : #FFCA9F; */
+  background-color : #F6F6F6;
 }
 
 TABLE.main {
@@ -138,7 +141,8 @@ TABLE.main {
   margin           : 0px 0px 0px 0px;
   color            : #000000;
   margin-bottom    : 10px;
-  background-color : #FFCA9F;
+  /* background-color : #FFCA9F; */
+  background-color : #F6F6F6;
 }
 
 TABLE.footer {
@@ -151,7 +155,8 @@ TABLE.footer {
   padding          : 0 0 0 0;
   margin           : 0px 0px 0px 0px;
   color            : #000000;
-  background-color : #FFCA9F;
+  /* background-color : #FFCA9F; */
+  background-color : #F6F6F6;
 }
 
 TABLE.noborder {
@@ -277,7 +282,8 @@ nav {
   margin           : 0px 0px 0px 0px;
   color            : #000000;
   margin-bottom    : 10px;
-  background-color : #FFCA9F;
+  /* background-color : #FFCA9F; */
+  background-color : #F6F6F6;
 }
 
 nav ul {
