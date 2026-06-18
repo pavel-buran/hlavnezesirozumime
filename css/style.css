@@ -263,6 +263,7 @@ menu.ios {
 }
 
 nav {
+  font-size        : 24px;
   border-left      : 1px solid #777777;
   border-right     : 1px solid #777777;
   border-top       : 1px solid #777777;
@@ -287,13 +288,13 @@ nav ul li {
 
 nav a {
   display         : inline-block;
-  line-height     : 2;
+  line-height     : 1.5;
   text-decoration : none;
 }
 
 nav ul li ul {
   position      : absolute;
-  margin        : 0px 0px 0px 20px;
+  margin        : 0px 0px 0px 0px;
   background    : #ffffff;
   border-radius : 10px;
   left          : -300;
@@ -303,6 +304,7 @@ nav ul li ul {
 nav ul li ul li {
   display  : list-item;
   position : relative;
+  margin   : 0px 20px 0px 0px;
 }
 
 nav ul li:focus > ul, nav ul li:active > ul {
